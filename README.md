@@ -9,7 +9,7 @@ Uma calculadora básica que realiza o cálculo de médias.
 
 - **Tecnologias:** Python
 - **Recursos:** Variáveis, Inputs, Estruturas de decisão, Loops
-- **[Ver Código](Python/Calculadora_de_Media.py)**
+- **[Ver Código](Calculadora_de_Media.py)**
 
 ### 2. **Calculadora de IMC ⚖️**
 Um programa que solicita dados do usuário e retorna o seu IMC.
