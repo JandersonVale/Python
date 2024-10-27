@@ -16,35 +16,35 @@ Um programa que solicita dados do usuário e retorna o seu IMC.
 
 - **Tecnologias:** Python
 - **Recursos:** Variáveis, Inputs, Loops, Estruturas de decisão
-- **[Ver Código](Python/Calculadora%20IMC.py)**
+- **[Ver Código](Calculadora%20IMC.py)**
 
 ### 3. **Jogo da Adivinhação Numérica 🎮**
 Um jogo simples onde o usuário tenta adivinhar um número gerado aleatoriamente.
 
 - **Tecnologias:** Python, Random
 - **Recursos:** Bibliotecas, Variáveis, Inputs, Loops, Estruturas de decisão
-- **[Ver Código](Python/Jogo%20adivinhação%20numérica.ipynb)**
+- **[Ver Código](Jogo%20adivinhação%20numérica.ipynb)**
 
 ### 4. **Tabuada ➗**
 Uma tabuada simples que solicita um número do usuário e gera a tabuada do mesmo.
 
 - **Tecnologias:** Python
 - **Recursos:** Variáveis, Input, Estruturas de repetição
-- **[Ver Código](Python/Tabuada.py)**
+- **[Ver Código](Tabuada.py)**
 
 ### 5. **Triângulos 🔺**
 Um projeto que analisa os lados de um triângulo e retorna o seu tipo.
 
 - **Tecnologias:** Python
 - **Recursos:** Variáveis, Inputs e Estruturas de decisão
-- **[Ver Código](Python/Triângulos.py)**
+- **[Ver Código](Triângulos.py)**
 
 ### 6. **Python e TXT 📄**
 Um projeto que integra Python e arquivos TXT.
 
 - **Tecnologias:** Python, OS, SYS
 - **Recursos:** Bibliotecas, Variáveis, Inputs e Estruturas de decisão
-- **[Ver Código](Python/Exemplo%20Manipulação%20de%20arquivos%20.TXT.py)**
+- **[Ver Código](Exemplo%20Manipulação%20de%20arquivos%20.TXT.py)**
 
 ### 7. **Python e CSV 📖**
 Um projeto de agenda telefônica que integra Python e arquivos CSV.
@@ -76,7 +76,7 @@ Um projeto de agenda telefônica que integra Python e o banco de dados SQLite.
 Se você tiver alguma dúvida ou quiser discutir sobre os projetos, sinta-se à vontade para me contatar!
 
 - **Email:** jbzr.developer@gmail.com
-- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/janderson-vale-8088a61aa)
+- **LinkedIn:** [Janderson Vale](https://www.linkedin.com/in/janderson-vale-8088a61aa)
 
 ---
 
