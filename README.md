@@ -46,21 +46,21 @@ Um projeto que integra Python e arquivos TXT.
 - **Recursos:** Bibliotecas, Variáveis, Inputs e Estruturas de decisão
 - **[Ver Código](Exemplo%20Manipulação%20de%20arquivos%20.TXT.py)**
 
-### 7. **Python e CSV 📖**
+### 7. **Agenda Telefônica Python e CSV 📖**
 Um projeto de agenda telefônica que integra Python e arquivos CSV.
 
 - **Tecnologias:** Python, OS, SYS, CSV
 - **Recursos:** Bibliotecas, Variáveis, Inputs e Estruturas de decisão
 - **[Ver Código](Agenda%20Telefônica%20Python%20e%20CSV.py)**
 
-### 8. **Python e SQLite 🗄️**
+### 8. **Agenda Telefônica Python e SQLite 🗄️**
 Um projeto de agenda telefônica com interface gráfica que integra Python e o banco de dados SQLite.
 
 - **Tecnologias:** Python, SQLite, tkinter
 - **Recursos:** Bibliotecas, Variáveis, Inputs, Estruturas de decisão, Classes, Funções e Widgets
 - **[Ver Código](Agenda%20Python%20SQLite%20e%20Tkinter.py)**
 
-### 9. **Python e SQLite (Duplicado) 🗄️**
+### 9. **Agenda Telefônica Python e SQLite🗄️**
 Um projeto de agenda telefônica que integra Python e o banco de dados SQLite.
 
 - **Tecnologias:** Python, SQLite
