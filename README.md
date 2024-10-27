@@ -9,63 +9,63 @@ Uma calculadora básica que realiza o cálculo de médias.
 
 - **Tecnologias:** Python
 - **Recursos:** Variáveis, Inputs, Estruturas de decisão, Loops
-- **[Ver Código](Calculadora_de_Media.py)**
+- **[Ver Código](Python/Calculadora%20de%20Media.py)**
 
 ### 2. **Calculadora de IMC ⚖️**
 Um programa que solicita dados do usuário e retorna o seu IMC.
 
 - **Tecnologias:** Python
 - **Recursos:** Variáveis, Inputs, Loops, Estruturas de decisão
-- **[Ver Código](Calculadora_IMC.py)**
+- **[Ver Código](Python/Calculadora%20IMC.py)**
 
 ### 3. **Jogo da Adivinhação Numérica 🎮**
 Um jogo simples onde o usuário tenta adivinhar um número gerado aleatoriamente.
 
 - **Tecnologias:** Python, Random
 - **Recursos:** Bibliotecas, Variáveis, Inputs, Loops, Estruturas de decisão
-- **[Ver Código](Jogo_adivinhacao_numerica.ipynb)**
+- **[Ver Código](Python/Jogo%20adivinhação%20numérica.ipynb)**
 
 ### 4. **Tabuada ➗**
 Uma tabuada simples que solicita um número do usuário e gera a tabuada do mesmo.
 
 - **Tecnologias:** Python
 - **Recursos:** Variáveis, Input, Estruturas de repetição
-- **[Ver Código](Tabuada.py)**
+- **[Ver Código](Python/Tabuada.py)**
 
 ### 5. **Triângulos 🔺**
 Um projeto que analisa os lados de um triângulo e retorna o seu tipo.
 
 - **Tecnologias:** Python
 - **Recursos:** Variáveis, Inputs e Estruturas de decisão
-- **[Ver Código](Triangulos.py)**
+- **[Ver Código](Python/Triângulos.py)**
 
 ### 6. **Python e TXT 📄**
 Um projeto que integra Python e arquivos TXT.
 
 - **Tecnologias:** Python, OS, SYS
 - **Recursos:** Bibliotecas, Variáveis, Inputs e Estruturas de decisão
-- **[Ver Código](Exemplo_Manipulacao_de_Arquivos_TXT.py)**
+- **[Ver Código](Python/Exemplo%20Manipulação%20de%20arquivos%20.TXT.py)**
 
-### 7. **Agenda Python e CSV 📖**
+### 7. **Python e CSV 📖**
 Um projeto de agenda telefônica que integra Python e arquivos CSV.
 
 - **Tecnologias:** Python, OS, SYS, CSV
 - **Recursos:** Bibliotecas, Variáveis, Inputs e Estruturas de decisão
-- **[Ver Código](Agenda_Telefonica_Python_e_CSV.py)**
+- **[Ver Código](Agenda%20Telefônica%20Python%20e%20CSV.py)**
 
-### 8. **Agenda Python, Tkinter e SQLite 🗄️**
+### 8. **Python e SQLite 🗄️**
 Um projeto de agenda telefônica com interface gráfica que integra Python e o banco de dados SQLite.
 
 - **Tecnologias:** Python, SQLite, tkinter
 - **Recursos:** Bibliotecas, Variáveis, Inputs, Estruturas de decisão, Classes, Funções e Widgets
-- **[Ver Código](Agenda_Python_SQLite_e_Tkinter.py)**
+- **[Ver Código](Agenda%20Python%20SQLite%20e%20Tkinter.py)**
 
-### 9. **Agenda Python e SQLite🗄️**
+### 9. **Python e SQLite (Duplicado) 🗄️**
 Um projeto de agenda telefônica que integra Python e o banco de dados SQLite.
 
 - **Tecnologias:** Python, SQLite
 - **Recursos:** Bibliotecas, Variáveis, Inputs, Estruturas de decisão
-- **[Ver Código](Agenda_Telefonica_Python_e_SQLite.py)**
+- **[Ver Código](Agenda%20Telefônica%20Python%20e%20SQLite.py)**
 
 ## 📚 Aprendizados
 - Implementação de algoritmos com estruturas de repetição, loops, classes, funções, inputs, variáveis, listas, dicionários e demais recursos da linguagem.
@@ -81,4 +81,3 @@ Se você tiver alguma dúvida ou quiser discutir sobre os projetos, sinta-se à 
 ---
 
 Espero que você tenha gostado do meu conteúdo! 😊
-
