@@ -59,7 +59,14 @@ Um projeto de agenda telefônica com interface gráfica que integra Python e o b
 
 - **Tecnologias:** Python, SQlite, tkinter
 - **Recursos:** Bibliotecas, Variáveis, Inputs, Estruturas de decisão, Classes, Funções e Widgets.
-- **[Ver Código](Python/Agenda_Python_SQLite_e_Tkinter.py)**
+- **[Ver Código](Python/Agenda%20Python%20SQLite%20e%20Tkinter.py)**
+
+   ### 9. **Python e SQLite**
+Um projeto de agenda telefônica que integra Python e o banco de dados SQLite.
+
+- **Tecnologias:** Python, SQlite,
+- **Recursos:** Bibliotecas, Variáveis, Inputs, Estruturas de decisão,.
+- **[Ver Código](Python/Agenda%20Telefônica%20Python%20e%20SQLite.py)**
 
 ## 📚 Aprendizados
 - Implementação de algoritmos com estruturas de controle.
