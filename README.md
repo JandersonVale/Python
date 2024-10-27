@@ -1,84 +1,84 @@
-# Python
-# 👨‍💻 Portfólio de Projetos e códigos de estudo em Python
+# 👨‍💻 Portfólio de Projetos e Códigos de Estudo em Python
 
-Bem-vindo ao meu repositório de projetos em Python! Aqui você encontrará uma variedade de códigos que demonstram minhas habilidades e meus materias de estudo em programação. 🚀
+Bem-vindo ao meu repositório de projetos em Python! Aqui você encontrará uma variedade de códigos que demonstram minhas habilidades e meus materiais de estudo em programação. 🚀
 
 ## 📂 Projetos
 
-### 1. **Calculadora de Média**
+### 1. **Calculadora de Média 📊**
 Uma calculadora básica que realiza o cálculo de médias.
 
 - **Tecnologias:** Python
-- **Recursos:** Variáveis, Inputs,Estruturas de decisão, Loops
+- **Recursos:** Variáveis, Inputs, Estruturas de decisão, Loops
 - **[Ver Código](Python/Calculadora_de_Media.py)**
 
-### 2. **Calculadora de IMC**
+### 2. **Calculadora de IMC ⚖️**
 Um programa que solicita dados do usuário e retorna o seu IMC.
 
 - **Tecnologias:** Python
 - **Recursos:** Variáveis, Inputs, Loops, Estruturas de decisão
 - **[Ver Código](Python/Calculadora_IMC.py)**
 
-### 3. **Jogo da Adivinhação numérica 🎮**
+### 3. **Jogo da Adivinhação Numérica 🎮**
 Um jogo simples onde o usuário tenta adivinhar um número gerado aleatoriamente.
 
 - **Tecnologias:** Python, Random
-- **Recursos:** Bibliotecas, Variáveis, Inputs,Loops, Estruturas de decisão
-- **[Ver Código](Python/Jogo_adivinhação_numérica.ipynb)**
+- **Recursos:** Bibliotecas, Variáveis, Inputs, Loops, Estruturas de decisão
+- **[Ver Código](Python/Jogo_adivinhacao_numerica.ipynb)**
 
-### 4. **Tabuada**
-Uma Tabuada simples que solicita um número do usuário e gera a tabuada do mesmo.
+### 4. **Tabuada ➗**
+Uma tabuada simples que solicita um número do usuário e gera a tabuada do mesmo.
 
 - **Tecnologias:** Python
-- **Recursos:**Variáveis, Input Estruturas de repetição
+- **Recursos:** Variáveis, Input, Estruturas de repetição
 - **[Ver Código](Python/Tabuada.py)**
 
-### 5. **Triângulos**
+### 5. **Triângulos 🔺**
 Um projeto que analisa os lados de um triângulo e retorna o seu tipo.
 
 - **Tecnologias:** Python
-- **Recursos:** Variáveis, Inputs e Estruturas de decisão.
-- **[Ver Código](Python/Triângulos.py)**
+- **Recursos:** Variáveis, Inputs e Estruturas de decisão
+- **[Ver Código](Python/Triangulos.py)**
 
- ### 6. **Python e TXT**
-Um projeto integra Python e arquivos TXT.
+### 6. **Python e TXT 📄**
+Um projeto que integra Python e arquivos TXT.
 
 - **Tecnologias:** Python, OS, SYS
-- **Recursos:** Bibliotecas, Variáveis, Inputs e Estruturas de decisão.
-- **[Ver Código](Python/Exemplo_Manipulação_de_arquivos_.TXT.py)**
+- **Recursos:** Bibliotecas, Variáveis, Inputs e Estruturas de decisão
+- **[Ver Código](Python/Exemplo_Manipulacao_de_Arquivos_TXT.py)**
 
- ### 7. **Python e CSV**
+### 7. **Agenda Python e CSV 📖**
 Um projeto de agenda telefônica que integra Python e arquivos CSV.
 
 - **Tecnologias:** Python, OS, SYS, CSV
-- **Recursos:** Bibliotecas, Variáveis, Inputs e Estruturas de decisão.
-- **[Ver Código](Python/Agenda_Telefônica_Python_e_CSV.py)**
+- **Recursos:** Bibliotecas, Variáveis, Inputs e Estruturas de decisão
+- **[Ver Código](Agenda_Telefonica_Python_e_CSV.py)**
 
-   ### 8. **Python e SQLite**
+### 8. **Agenda Python, Tkinter e SQLite 🗄️**
 Um projeto de agenda telefônica com interface gráfica que integra Python e o banco de dados SQLite.
 
-- **Tecnologias:** Python, SQlite, tkinter
-- **Recursos:** Bibliotecas, Variáveis, Inputs, Estruturas de decisão, Classes, Funções e Widgets.
-- **[Ver Código](Python/Agenda%20Python%20SQLite%20e%20Tkinter.py)**
+- **Tecnologias:** Python, SQLite, tkinter
+- **Recursos:** Bibliotecas, Variáveis, Inputs, Estruturas de decisão, Classes, Funções e Widgets
+- **[Ver Código](Agenda_Python_SQLite_e_Tkinter.py)**
 
-   ### 9. **Python e SQLite**
+### 9. **Agenda Python e SQLite🗄️**
 Um projeto de agenda telefônica que integra Python e o banco de dados SQLite.
 
-- **Tecnologias:** Python, SQlite,
-- **Recursos:** Bibliotecas, Variáveis, Inputs, Estruturas de decisão,.
-- **[Ver Código](Agenda%20Telefônica%20Python%20e%20SQLite.py)**
+- **Tecnologias:** Python, SQLite
+- **Recursos:** Bibliotecas, Variáveis, Inputs, Estruturas de decisão
+- **[Ver Código](Agenda_Telefonica_Python_e_SQLite.py)**
 
 ## 📚 Aprendizados
-- Implementação de algoritmos com estruturas de controle.
-- Uso de bibliotecas populares como Pandas e Matplotlib.
+- Implementação de algoritmos com estruturas de repetição, loops, classes, funções, inputs, variáveis, listas, dicionários e demais recursos da linguagem.
+- Uso de bibliotecas populares como CSV, SQLite, OS, Sys, Tkinter e outras.
 - Organização de código com funções e classes.
 
 ## 📫 Contato
 Se você tiver alguma dúvida ou quiser discutir sobre os projetos, sinta-se à vontade para me contatar!
 
-- **Email:** seu-email@example.com
-- **LinkedIn:** [Seu LinkedIn](link-do-seu-linkedin)
+- **Email:** jbzr.developer@gmail.com
+- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/janderson-vale-8088a61aa)
 
 ---
 
-Espero que você tenha gostado do meu portfólio! 😊
+Espero que você tenha gostado do meu conteúdo! 😊
+
